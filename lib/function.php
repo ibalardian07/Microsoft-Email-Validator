@@ -1,4 +1,6 @@
 <?php
+// Author Muh Ardian Iqbal
+// Github https://github.com/ibalardian07/
 error_reporting(0);
 class curl
 {
