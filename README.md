@@ -11,3 +11,5 @@ How to use:
 3. php microemail.php
 
 Screenshot : 
+
+![microsoft](https://user-images.githubusercontent.com/66360550/133787766-75b2e055-9b16-4aea-99da-e78bb6e75507.PNG)
