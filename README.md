@@ -1,5 +1,5 @@
 # Microsoft Email Validator
-Basically, I created this tool to help check emails registered with Microsoft, for newsletter purposes
+Basically I made this tool to check emails registered with Microsoft, to send me an offer message from a project that I made. Thanks
 
 Tool :
 1. XAMPP
