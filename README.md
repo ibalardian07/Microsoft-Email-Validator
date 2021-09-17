@@ -9,6 +9,7 @@ How to use:
 1. git clone https://github.com/ibalardian07/microsoft-email-validator.git
 2. cd Microsoft-Email-Validator
 3. php microemail.php
+4. enter the name of your email list file (example: list.txt)
 
 Screenshot : 
 
