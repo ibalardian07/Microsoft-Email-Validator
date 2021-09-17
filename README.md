@@ -2,14 +2,15 @@
 Basically I made this tool to check emails registered with Microsoft, to send me an offer message from a project that I made. Thanks
 
 Tool :
-1. XAMPP
-2. Git Bash
+1. Laptop or Computer
+2. XAMPP
+3. Git Bash
 
 How to use:
-1. $ git clone https://github.com/ibalardian07/microsoft-email-validator.git
-2. $ cd Microsoft-Email-Validator
-3. $ php microemail.php
-4. $ enter the name of your email list file (example: list.txt)
+$ git clone https://github.com/ibalardian07/microsoft-email-validator.git
+$ cd Microsoft-Email-Validator
+$ php microemail.php
+$ enter the name of your email list file (example: list.txt)
 
 Screenshot : 
 
