@@ -7,10 +7,10 @@ Tool :
 3. Git Bash
 
 How to use:
-1. git clone https://github.com/ibalardian07/microsoft-email-validator.git
-2. cd Microsoft-Email-Validator
+1. $ git clone https://github.com/ibalardian07/microsoft-email-validator.git
+2. $ cd microsoft-email-validator
 3. put your email list in the file (list.txt)
-4. php microemail.php
+4. $ php microemail.php
 5. enter the name of your email list file (example: list.txt)
 6. enjoy!
 
